@@ -35,18 +35,18 @@ async def speed_test(client: Client, message: Message):
     spd = speedtest.Speedtest()
 
     new_msg = await new_msg.edit(
-        f"`{new_msg.text}`\n" "`Getting best server based on ping . . .`"
+        f"`{new_msg.text}`\n" "`Getting Devil power . . .`"
     )
     spd.get_best_server()
 
-    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`Testing download speed . . .`")
+    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`Getting devil speed . . .`")
     spd.download()
 
-    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`Testing upload speed . . .`")
+    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`Getting devil powers . . .`")
     spd.upload()
 
     new_msg = await new_msg.edit(
-        f"`{new_msg.text}`\n" "`Getting results and preparing formatting . . .`"
+        f"`{new_msg.text}`\n" "`Devil power granted . . .`"
     )
     results = spd.results.dict()
 
