@@ -6,7 +6,7 @@
 <p align="center"><a href="https://t.me/Devil6694"><img src="https://telegra.ph/file/8bfded5f818dc3c95670e.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using this op STRING BOT. That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using this op USER BOT. That is the greatest pleasure we have !
 
 
 # ᴅᴇᴘʟᴏʏᴍᴇɴᴛ
@@ -16,7 +16,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ</b></summary>
 <br>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Samyak1222/Stringer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Samyak1222/Deviluserbot)
 
 </details>
 
