@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>[⚡] 𝙏𝙝𝙚Devil𝘽𝙤𝙩𝙨 [⚡]</b></h1>
+<h1 align="center"><b>[⚡] 𝙏𝙝𝙚 DEVIL USER 𝘽𝙤𝙩 [⚡]</b></h1>
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 USER 𝐁𝐎𝐓</h4>
 
