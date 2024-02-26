@@ -16,15 +16,12 @@ PHONE_NUMBER_TEXT = (
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("⚡CHANNEL⚡", url="t.me/your_devil82"),
+                InlineKeyboardButton("⚡DEVIL⚡", url="t.me/Devil6694"),
             ],
             [
                 InlineKeyboardButton("⚡GROUP⚡", url="t.me/your_devillok"),
             ],
-            [
-                InlineKeyboardButton("🔥DEVIL", url="t.me/Devil6694"),
-           
-            [
+            ]
     reply_markup = InlineKeyboardMarkup(buttons)
     await client.send_photo(message.chat.id, ALIVE_PIC, caption=PHONE_NUMBER_TEXT, reply_markup=reply_markup)
 
