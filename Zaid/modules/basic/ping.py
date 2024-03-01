@@ -46,7 +46,7 @@ async def speed_test(client: Client, message: Message):
     spd.upload()
 
     new_msg = await new_msg.edit(
-        f"`{new_msg.text}`\n" "`Devil power granted . . .`"
+        f"`{new_msg.text}`\n" "`𝙏𝙀𝘼𝙈 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎 𝙋𝙊𝙒𝙀𝙍 . . .😈`"
     )
     results = spd.results.dict()
 
@@ -73,15 +73,15 @@ async def pingme(client: Client, message: Message):
        await message.delete()
     except:
        pass
-    await xx.edit("**#Devil**")
-    await xx.edit("**Super**")
-    await xx.edit("**Fucking**")
-    await xx.edit("**Mode**")
-    await xx.edit("**Activated🔥**")
+    await xx.edit("**#𝙏𝙀𝘼𝙈 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎**")
+    await xx.edit("**𝘿𝘼𝙉𝙂𝙀𝙍𝙊𝙐𝙎**")
+    await xx.edit("**𝙁𝙐𝘾𝙆𝙄𝙉𝙂**")
+    await xx.edit("**𝙈𝙊𝘿𝙀**")
+    await xx.edit("**𝘼𝘾𝙏𝙄𝙑𝘼𝙏𝙀𝘿😈**")
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await xx.edit(
-        f"❏ **╰☞DEVIL XD OP ™╮**\n"
+        f"❏ **╰☞TEAM CRIMINALS OP ™╮**\n"
         f"├• **╰☞FUCKTIME** - `%sms`\n"
         f"├• **╰☞ -** `{uptime}` \n"
         f"└• **╰☞:** {client.me.mention}" % (duration)
