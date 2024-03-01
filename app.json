@@ -1,8 +1,8 @@
 {
-    "name": "⚡Devil Userbot⚡",
+    "name": "😈Team Criminals Userbot😈",
     "description": "An first Telegram Userbot with multi Clients for Spamming or Mass.",
     "keywords": ["pyrogram", "userbot"],
-    "repository": "https://github.com/Samyak1222/Deviluserbot",
+    "repository": "https://github.com/TOXICOP638/TOXICUSERBOT-2.0",
   "stack": "container",
     "env": {
         "STRING_SESSION1": {
