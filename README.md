@@ -3,7 +3,7 @@
 
 <h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 USER 𝐁𝐎𝐓</h4>
 
-<p align="center"><a href="https://t.me/TCF_OFFICIAL"><img src="https://telegra.ph/file/1b04a4a84ad51aa9887a2.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.me/TCF_OFFICIAL"><img src="https://telegra.ph/file/1b04a4a84ad51aa9887a2.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op USER BOT. That is the greatest pleasure we have !
@@ -25,6 +25,6 @@
 <summary><b>sᴜᴘᴘᴏʀᴛ</b></summary>
 <br>
 
-<a href="https://t.me/TCF_OFFICIAL"><img src="https://telegra.ph/file/1b04a4a84ad51aa9887a2.jpg"></a>
+<a href="https://telegram.me/TCF_OFFICIAL"><img src="https://telegra.ph/file/1b04a4a84ad51aa9887a2.jpg"></a>
 
 </details>
