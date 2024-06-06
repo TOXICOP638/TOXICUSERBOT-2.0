@@ -1,9 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h1 align="center"><b>[😈] 𝙏𝙀𝘼𝙈 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎 𝙐𝙎𝙀𝙍𝘽𝙊𝙏 [😈]</b></h1>
+<h1 align="center"><b>[😈] 𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 [😈]</b></h1>
 
-<h4 align="center"> 𝐀 𝐏𝐎𝐖𝐄𝐑𝐅𝐔𝐋 USER 𝐁𝐎𝐓</h4>
+<h4 align="center"> 𝗔 𝗠𝗢𝗦𝗧 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟𝗟 𝗨𝗦𝗘𝗥𝗕𝗢𝗧</h4>
 
-<p align="center"><a href="https://telegram.me/TCF_OFFICIAL"><img src="https://telegra.ph/file/1b04a4a84ad51aa9887a2.jpg" width="400"></a></p>
+<p align="center"><a href="https://telegram.me/GODS_WORLDS"><img src="https://graph.org/file/a7d06dd435e7ce7f7754c.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using this op USER BOT. That is the greatest pleasure we have !
