@@ -9,20 +9,20 @@ from pyrogram import *
 from pyrogram.types import * 
 
 PHONE_NUMBER_TEXT = (
-    " ✦𝗛𝗘𝗬..! 𝗠𝗔𝗦𝗧𝗘𝗥..!!👋!\n\n✦ 𝗜'𝗠 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗧𝗘𝗔𝗠 𝗖𝗥𝗜𝗠𝗜𝗡𝗔𝗟𝗦 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗘𝗥?\n\n‣ 𝗜 𝗖𝗔𝗡 𝗛𝗘𝗟𝗣 𝗬𝗢𝗨 𝗧𝗢 𝗛𝗢𝗦𝗧 𝗬𝗢𝗨𝗥 𝗟𝗘𝗙𝗧 𝗖𝗟𝗜𝗘𝗡𝗧𝗦.\n\n‣ 𝗛𝗘𝗟𝗣𝗘𝗥 ✦: [STRING SESSION BOT](https://t.me/STRINGS_ROBOT) \n\n‣ 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗟𝗬 𝗙𝗢𝗥 𝗚𝗔𝗡𝗗𝗨 𝗣𝗘𝗢𝗣𝗟𝗘'𝗦(ʟᴀᴢʏ)\n\n‣ 𝗡𝗢𝗪 /clone {send your PyroGram String Session}"
+    " ✦𝗛𝗘𝗬..! 𝗠𝗔𝗦𝗧𝗘𝗥..!!👋!\n\n✦ 𝗜'𝗠 𝗔 𝗣𝗢𝗪𝗘𝗥𝗙𝗨𝗟 𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗜𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗛𝗘𝗟𝗣𝗘𝗥?\n\n‣ 𝗜 𝗖𝗔𝗡 𝗛𝗘𝗟𝗣 𝗬𝗢𝗨 𝗧𝗢 𝗛𝗢𝗦𝗧 𝗬𝗢𝗨𝗥 𝗟𝗘𝗙𝗧 𝗖𝗟𝗜𝗘𝗡𝗧𝗦.\n\n‣ 𝗛𝗘𝗟𝗣𝗘𝗥 ✦: [STRING SESSION BOT](https://t.me/STRINGS_X_BOT) \n\n‣ 𝗧𝗛𝗜𝗦 𝗜𝗦 𝗦𝗣𝗘𝗖𝗜𝗔𝗟𝗟𝗬 𝗙𝗢𝗥 𝗚𝗔𝗡𝗗𝗨 𝗣𝗘𝗢𝗣𝗟𝗘'𝗦(ʟᴀᴢʏ)\n\n‣ 𝗡𝗢𝗪 /clone {send your PyroGram String Session}"
 )
 
 @app.on_message(filters.command("start"))
 async def hello(client: app, message):
     buttons = [
            [
-                InlineKeyboardButton("😈𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥😈", url="telegram.me/TCF_OFFICIAL"),
+                InlineKeyboardButton("😈𝗗𝗘𝗣𝗟𝗢𝗣𝗘𝗥😈", url="telegram.me/SHAITAAN_XD"),
             ],
             [
-                InlineKeyboardButton("😈𝗨𝗣𝗗𝗔𝗧𝗘𝗦😈", url="telegram.me/TCF_OFFICIAL"),
+                InlineKeyboardButton("😈𝗨𝗣𝗗𝗔𝗧𝗘𝗦😈", url="telegram.me/GODS_WORLDS"),
             ],
             [
-                InlineKeyboardButton("😈𝗦𝗨𝗣𝗣𝗢𝗥𝗧😈", url="telegram.me/TCF_OFFICIAL"),
+                InlineKeyboardButton("😈𝗦𝗨𝗣𝗣𝗢𝗥𝗧😈", url="telegram.me/GODS_WORLDS"),
             ],
             ]
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -36,11 +36,11 @@ async def clone(bot: app, msg: Message):
     cmd = msg.command
     phone = msg.command[1]
     try:
-        await text.edit("𝙍𝙐𝙆 𝙅𝘼𝘼 𝙆𝙄𝘿𝘿..😈")
+        await text.edit("𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗖𝗟𝗢𝗡𝗡𝗜𝗡𝗚..😈")
                    # change this Directry according to ur repo
         client = Client(name="Melody", api_id=API_ID, api_hash=API_HASH, session_string=phone, plugins=dict(root="Zaid/modules"))
         await client.start()
         user = await client.get_me()
-        await msg.reply(f" 🤤𝘼𝘽 𝙏𝙐𝙈 𝙏𝙀𝘼𝙈 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎 𝙆𝙀 𝙎𝙐𝙋𝙋𝙊𝙍𝙏 𝙈𝙀 𝙃𝙊🤤  {user.first_name} 💨.")
+        await msg.reply(f" ↬𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 𝗖𝗟𝗢𝗡𝗘 𝗦𝗨𝗖𝗖𝗘𝗦𝗙𝗨𝗟𝗟𝗬💯  {user.first_name} 💨.")
     except Exception as e:
         await msg.reply(f"**ERROR:** `{str(e)}`\nPress /start to Start again.")
