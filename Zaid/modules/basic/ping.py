@@ -27,7 +27,7 @@ class WWW:
     filters.command(["speedtest"], ".") & (filters.me | filters.user(SUDO_USER))
 )
 async def speed_test(client: Client, message: Message):
-    new_msg = await message.reply_text("`Running speed test . . .`")
+    new_msg = await message.reply_text("`𝗙𝗘𝗘𝗟 𝗬𝗢𝗨𝗥 𝗗𝗔𝗗'𝗦 𝗣𝗢𝗪𝗘𝗥. . .`")
     try:
        await message.delete()
     except:
@@ -35,18 +35,18 @@ async def speed_test(client: Client, message: Message):
     spd = speedtest.Speedtest()
 
     new_msg = await new_msg.edit(
-        f"`{new_msg.text}`\n" "`Getting Devil power . . .`"
+        f"`{new_msg.text}`\n" "`𝗙𝗘𝗘𝗟 𝗬𝗢𝗨𝗥 𝗗𝗔𝗗'𝗦 𝗣𝗢𝗪𝗘𝗥. . .`"
     )
     spd.get_best_server()
 
-    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`Getting devil speed . . .`")
+    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`𝗙𝗘𝗘𝗟 𝗬𝗢𝗨𝗥 𝗗𝗔𝗗'𝗦 𝗣𝗢𝗪𝗘𝗥. . .`")
     spd.download()
 
-    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`Getting devil powers . . .`")
+    new_msg = await new_msg.edit(f"`{new_msg.text}`\n" "`𝗙𝗘𝗘𝗟 𝗬𝗢𝗨𝗥 𝗗𝗔𝗗'𝗦 𝗣𝗢𝗪𝗘𝗥. . .`")
     spd.upload()
 
     new_msg = await new_msg.edit(
-        f"`{new_msg.text}`\n" "`𝙏𝙀𝘼𝙈 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎 𝙋𝙊𝙒𝙀𝙍 . . .😈`"
+        f"`{new_msg.text}`\n" "`𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 . . .😈`"
     )
     results = spd.results.dict()
 
@@ -73,7 +73,7 @@ async def pingme(client: Client, message: Message):
        await message.delete()
     except:
        pass
-    await xx.edit("**#𝙏𝙀𝘼𝙈 𝘾𝙍𝙄𝙈𝙄𝙉𝘼𝙇𝙎**")
+    await xx.edit("**#𝗟𝗘𝗚𝗘𝗡𝗗𝗦 𝗨𝗦𝗘𝗥𝗕𝗢𝗧**")
     await xx.edit("**𝘿𝘼𝙉𝙂𝙀𝙍𝙊𝙐𝙎**")
     await xx.edit("**𝙁𝙐𝘾𝙆𝙄𝙉𝙂**")
     await xx.edit("**𝙈𝙊𝘿𝙀**")
@@ -81,7 +81,7 @@ async def pingme(client: Client, message: Message):
     end = datetime.now()
     duration = (end - start).microseconds / 1000
     await xx.edit(
-        f"❏ **╰☞TEAM CRIMINALS OP ™╮**\n"
+        f"❏ **╰☞LEGENDS USERBOT ™╮**\n"
         f"├• **╰☞FUCKTIME** - `%sms`\n"
         f"├• **╰☞ -** `{uptime}` \n"
         f"└• **╰☞:** {client.me.mention}" % (duration)
